@@ -1,9 +1,9 @@
-export default function Skills() {
+export default function Contact() {
     return (
       <div className="flex flex-col items-center justify-center min-h-screen bg-gray-900 text-white">
-        <h1 className="text-4xl font-bold">My Skills</h1>
+        <h1 className="text-4xl font-bold">Contact Me</h1>
         <p className="text-lg mt-4 max-w-xl text-center">
-          Here are some of my technical skills and expertise.
+          Get in touch with me through email or social media.
         </p>
       </div>
     );
